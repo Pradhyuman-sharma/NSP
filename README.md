@@ -16,12 +16,5 @@ Its an Online Examination System that Takes Tests of different Courses and Also 
 # Requiremnts
 - MySQL Database
 - Java Installed
-- IDE ( NetBeans )
+- IDE 
 
-# Info About it !
-Its a GUI Based Desktop Application Fully Equiped with User Intraction and Take Responses From User as Per User Requiremnts and Give You Proper Output.
-GUI - JAVA Swing
-
-Follow Me - 
-Instagram - itsexceptional
-Linkedin - Simranjeet Singh
