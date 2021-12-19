@@ -1,4 +1,4 @@
-# Online Examination System and Mock Test
+# Online Examination System 
 
 Version 1.0 
 
