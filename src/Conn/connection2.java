@@ -12,7 +12,7 @@ public class connection2 {
     static String pass="root";
     
     public static Connection getConnection(String databasename)throws Exception {
-     Class.forName("com.mysql.jdbc.Driver");
+     Class.forName("com.mysql.cj.jdbc.Driver");
      Connection con=DriverManager.getConnection(url+databasename,user,pass);
      return con;
  

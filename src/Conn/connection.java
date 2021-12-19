@@ -10,9 +10,9 @@ public class connection {
     static String url="jdbc:mysql://localhost:3306/";
     static String user="root";
     static String pass="root";
-    
+
     public static Connection getConnection(String database)throws Exception {
-     Class.forName("com.mysql.jdbc.Driver");
+     Class.forName("com.mysql.cj.jdbc.Driver");
      Connection con=DriverManager.getConnection(url+database,user,pass);
      return con;
  
